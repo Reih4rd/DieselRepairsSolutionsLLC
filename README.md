@@ -79,7 +79,7 @@ footer{margin-top:26px;padding:20px 16px;background:#0f1724;color:#e6eef8;border
 </div>
 <div style="min-height:120px;display:flex;align-items:center;justify-content:center">
 <picture>
-<img ![image](https://github.com/user-attachments/assets/9d1c0dc6-4f62-4a53-afeb-d9699e047c34)
+<image](https://github.com/user-attachments/assets/9d1c0dc6-4f62-4a53-afeb-d9699e047c34)
 
 </picture>
 </div>
