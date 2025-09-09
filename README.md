@@ -79,7 +79,8 @@ footer{margin-top:26px;padding:20px 16px;background:#0f1724;color:#e6eef8;border
 </div>
 <div style="min-height:120px;display:flex;align-items:center;justify-content:center">
 <picture>
-<img src="https://images.unsplash.com/photo-1581091870619-6b75f0b1aa8f?q=80&w=1200&auto=format&fit=crop&s=4a2c3d55f7f3b54d6efb44df5b6d2c6b" alt="Diesel truck being serviced" style="width:100%;border-radius:8px;object-fit:cover;max-height:240px">
+<img ![image](https://github.com/user-attachments/assets/9d1c0dc6-4f62-4a53-afeb-d9699e047c34)
+
 </picture>
 </div>
 </section>
