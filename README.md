@@ -76,6 +76,7 @@ footer{margin-top:26px;padding:20px 16px;background:#0f1724;color:#e6eef8;border
 <div style="min-height:120px;display:flex;align-items:center;justify-content:center">
 <picture>
 <image](https://github.com/user-attachments/assets/9d1c0dc6-4f62-4a53-afeb-d9699e047c34)
+![image](https://github.com/user-attachments/assets/4399f52a-4a19-448f-9ede-423febc5dc65)
 
   ![image](https://github.com/user-attachments/assets/028ebe39-9576-475f-826c-e29ba6de05a9)
 
