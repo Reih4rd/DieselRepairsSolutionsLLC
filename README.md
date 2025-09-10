@@ -1,7 +1,3 @@
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Diesel Repair Solutions LLC — Fleet & Commercial Diesel Repair</title>
 <meta name="description" content="Diesel Repair Solutions LLC — 22+ years experience. Fleet & commercial diesel engine, transmission & clutch service. 24/7 mobile service.">
 <meta name="theme-color" content="#1f2937">
@@ -80,6 +76,8 @@ footer{margin-top:26px;padding:20px 16px;background:#0f1724;color:#e6eef8;border
 <div style="min-height:120px;display:flex;align-items:center;justify-content:center">
 <picture>
 <image](https://github.com/user-attachments/assets/9d1c0dc6-4f62-4a53-afeb-d9699e047c34)
+
+  ![image](https://github.com/user-attachments/assets/028ebe39-9576-475f-826c-e29ba6de05a9)
 
 </picture>
 </div>
